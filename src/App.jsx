@@ -11,6 +11,8 @@ function App() {
       <h2>Desplegado con AWS Amplify</h2>
       <p>Grupo: Grupo AWS</p>
       <p>Estudiante 1: Sergio Cardona</p>
+      <p>Estudiante 2: Edgar David Perez</p>
+      <p>Estudiante 3: Laura Juliana Cardenas</p>
       <p>Curso: Laboratorio DevOps</p>
     </main>
   );
